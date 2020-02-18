@@ -8,7 +8,6 @@ Child 1 will send: LowerCaseLetters to child 1.1<br>
                    UpperCaseLetters to child 1.2<br>
 Child 1.1 and child 1.2 will print the results.<br>
 <br>
-<br>
 <h2>demo.c</h2>  <br>  
 This file will contain only the processes with a print statement.<br>
 I used this as a skeleton for making ex2.c <br>
